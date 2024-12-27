@@ -1,0 +1,4 @@
+<Bindings>
+    <Binding name="CLICK CharmingSet:LeftButton" Category="BINDING_HEADER_CHARMING" />
+    <Binding name="CLICK CharmingClear:LeftButton" Category="BINDING_HEADER_CHARMING" />
+</Bindings>
